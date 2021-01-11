@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "enabledManagers": [
+    "composer"
+  ],
+  "rangeStrategy": "update-lockfile",
+  "rebaseWhen": "conflicted"
+}
