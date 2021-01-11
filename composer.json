@@ -1,0 +1,7 @@
+{
+    "name": "annuh/renovate-issue-8250",
+    "require": {
+        "symfony/console": "^5.2.0",
+        "symfony/event-dispatcher": "^5.2"
+    }
+}

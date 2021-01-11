@@ -1,0 +1,22 @@
+{
+  "name": "renovate-issue-8250",
+  "version": "1.0.0",
+  "description": "## About this repository Repository to reproduce https://github.com/renovatebot/renovate/issues/8250",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annuh/renovate-issue-8250.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annuh/renovate-issue-8250/issues"
+  },
+  "homepage": "https://github.com/annuh/renovate-issue-8250#readme",
+  "devDependencies": {
+    "renovate": "^24.15.0"
+  }
+}
