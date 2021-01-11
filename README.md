@@ -22,6 +22,5 @@ renovate
 ## Interesting logs
 ```
 ❯ composer outdated
-symfony/console          v5.2.0 v5.2.1 Symfony Console Component
-symfony/event-dispatcher v5.2.0 v5.2.1 Symfony EventDispatcher Component
-```
+symfony/console          v5.1.0 v5.2.1 Symfony Console Component
+symfony/event-dispatcher v5.1.0 v5.2.1 Symfony EventDispatcher Component```
